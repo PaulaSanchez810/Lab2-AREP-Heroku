@@ -1,4 +1,5 @@
-# Calculadora desviación estándar y media
+# Heroku
+## Calculadora desviación estándar y media
 En esta práctica de laboratorio, tiene como objetivo realizar énfasis en el uso de maven para la creación de proyectos a través de arquetipos, el uso de git para él 
 versionamiento del desarrollo y java como lenguaje de programación,para calcular la media y la desviación de una lista de datos, implementado la estructura de LinkedList, 
 como el contenedor para estos datos numéricos.Donde se desarrolló un programa en Java, donde se profundizó en el tema de Linked List y las ecuaciones que se necesitaron,  implementar para el desarrollo del problema y de esta manera practicar el desarrollo de proyectos con maven y manejar Git que es Software de gestión de versiones.
