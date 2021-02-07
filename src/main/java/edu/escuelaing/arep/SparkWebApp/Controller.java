@@ -21,7 +21,7 @@ public class Controller {
     }
     public static Route main = (Request req, Response res) -> {
         HashMap<String, Object> model = new HashMap<>();
-        return render(req, model, "/render/calculator.php");
+        return render(req, model, "/template/calculator.html");
     };
     public static Route computeNumbers = (Request req, Response res) -> {
         HashMap<String, Object> model = new HashMap<>();
@@ -38,6 +38,6 @@ public class Controller {
                 model.put("msg", "Verifique que la entrada sean números");
             }
         }
-        return render(req, model, "/render/calculator.php");
+        return render(req, model, "/template/calculator.html");
     };
 }
