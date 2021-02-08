@@ -7,7 +7,7 @@ import spark.Response;
 import static spark.Spark.*;
 import static spark.Spark.port;
 
-public class App {
+public class SparkWebApp {
     public static void main(String[] args ) {
         port(getport());
         get("/calculadoraArep",(req,res)->inputDataPage(req,res));

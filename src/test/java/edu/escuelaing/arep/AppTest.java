@@ -5,10 +5,9 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import junit.framework.TestCase;
+
 import edu.escuelaing.arep.LinkedliStstructure.LinkedList;
-import edu.escuelaing.arep.Calculator;
-import edu.escuelaing.arep.App;
+
 /**
  * Unit test for simple App.
  */
