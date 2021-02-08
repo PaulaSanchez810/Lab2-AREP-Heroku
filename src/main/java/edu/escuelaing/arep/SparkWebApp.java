@@ -25,7 +25,7 @@ public class SparkWebApp {
                 + "<form action=\"/resultado\">"
                 +"<fieldset>"+"<legend>Calculadora</legend>"
                 +"<p>Ingrese el conjunto de números para calcular la media y desviación estandar</p>"
-                +"<input type=\"text\"name=\"data\" placeholder=\"Ej:1,2,3\">" + "<br/><br/>"
+                +"<input type=\"text\"name=\"data\" placeholder=\"Ej:1,3,9.0,7.8\">" + "<br/><br/>"
                 + "<input type=\"submit\" value=\"Calcular\">" + "</form>"
                 +"</fieldset>"
                 + "</body>" + "</html>";
