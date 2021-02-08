@@ -8,7 +8,9 @@ El programa desarrollado para calcular la desviación estándar y media de un co
 ## Comenzando 🚀
 
 Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio en formato Latex haga [click acá](https://www.overleaf.com/project/601554022e066319be081aec)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://calculadora-app-arep.herokuapp.com/calculadoraArep)
+
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/PaulaSanchez810/Lab2-AREP-Heroku)
 
 ### Pre-requisitos 📋
