@@ -4,13 +4,11 @@ import edu.escuelaing.arep.LinkedliStstructure.LinkedList;
 import spark.Request;
 import spark.Response;
 
-import java.io.FileNotFoundException;
-
 import static spark.Spark.*;
 import static spark.Spark.port;
 
 public class App {
-    public static void main(String[] args ) throws FileNotFoundException {
+    public static void main(String[] args ) {
         port(getport());
         get("/CalculadoraArep",(req,res)->inputDataPage(req,res));
         get("/resultado", (req,res)->resultsPage(req,res));
