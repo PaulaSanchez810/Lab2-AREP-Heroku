@@ -10,7 +10,7 @@ import static spark.Spark.port;
 public class App {
     public static void main(String[] args ) {
         port(getport());
-        get("/CalculadoraArep",(req,res)->inputDataPage(req,res));
+        get("/calculadoraArep",(req,res)->inputDataPage(req,res));
         get("/resultado", (req,res)->resultsPage(req,res));
 
     }
