@@ -12,7 +12,7 @@ import static spark.Spark.port;
 public class App {
     public static void main(String[] args ) throws FileNotFoundException {
         port(getport());
-        get("/CalculadoraArep/",(req,res)->inputDataPage(req,res));
+        get("/CalculadoraArep",(req,res)->inputDataPage(req,res));
         get("/resultado", (req,res)->resultsPage(req,res));
 
     }
