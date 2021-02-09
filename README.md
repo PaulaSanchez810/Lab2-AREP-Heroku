@@ -59,13 +59,14 @@ De esta manera podemos ver que la aplicación esta corriendo de forma local
 ```
 http://localhost:4567/calculadoraArep
 ``
- veremos la aplicacación ejecutando localmente:
+veremos la aplicacación ejecutando localmente:
  
- ---> imagen 
+---> imagen 
  
- 4. Documentación JavaDoc
+4. Documentación JavaDoc
  
 > por consola 
+
 ```
 mvn javadoc:javadoc
 ```
@@ -74,6 +75,7 @@ mvn javadoc:javadoc
 ## Ejecutando las pruebas ⚙️
 
 En una terminal:
+
 ```
 mvn test
 ```
