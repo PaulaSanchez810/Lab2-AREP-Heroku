@@ -71,7 +71,7 @@ veremos la aplicacación ejecutando localmente:
  
 4. Documentación JavaDoc
  
-> por consola 
+> Por consola:
 
 ```
 mvn javadoc:javadoc
