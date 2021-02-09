@@ -57,8 +57,8 @@ De esta manera podemos ver que la aplicación esta corriendo de forma local
 
 > Para ver la aplicación de manera local 
 ```
-http://localhost:4567/calculadoraArep
-``
+ http://localhost:4567/calculadoraArep
+```
 veremos la aplicacación ejecutando localmente:
  
 ---> imagen 
