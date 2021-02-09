@@ -2,7 +2,7 @@
 
 En esta práctica de laboratorio, tiene como objetivo realizar aplicativo web diseñado en Java haciendo uso del framework Spark,para calcular la media y la  desviación estándar y media de un conjunto de n números reales, utilizando una Linked list para almacenar los n números para los cálculos.
 
-## Información del proyecto 🚀
+## Información del proyecto 📁
 
 Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio:
 
@@ -18,7 +18,7 @@ Para ver detalle del darrollo de la práctica y concepto clave, puede consultar 
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/PaulaSanchez810/Lab2-AREP-Heroku)
 
-### Pre-requisitos 📋
+### Pre-requisitos 📜
 
 * [Java 13.0.2](https://www.oracle.com/co/java/technologies/javase-jdk13-downloads.html)- Entorno de desarrollo.
 * [Maven](https://maven.apache.org) - Gestión de dependencias.
@@ -36,7 +36,7 @@ git --version
 ```
 java -showversion 
 ```
-### Instalación 🔧
+### Instalación 💿
 
 1. Clonar el repositorio
 
@@ -80,7 +80,7 @@ mvn javadoc:javadoc
 ```
 > En Repositorio
 
-## Ejecutando las pruebas ⚙️
+## Ejecutando las pruebas ✅
 
 En una terminal:
 
