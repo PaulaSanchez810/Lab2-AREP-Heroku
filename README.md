@@ -59,7 +59,7 @@ java  -cp target/classes:target/dependency/* edu.escuelaing.arep.SparkWebApp
 ```
 De esta manera podemos ver que la aplicación esta corriendo de forma local
 
---->imagen
+![](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/img/ejecutando%20aplicacion.png)
 
 > Para ver la aplicación de manera local 
 ```
@@ -67,7 +67,7 @@ De esta manera podemos ver que la aplicación esta corriendo de forma local
 ```
 veremos la aplicacación ejecutando localmente:
  
----> imagen 
+![](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/img/Calculadora2.png)
  
 4. Documentación JavaDoc
  
@@ -78,6 +78,7 @@ mvn javadoc:javadoc
 ```
 > En Repositorio
 
+[Apidocs](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/tree/master/site/apidocs)
 ## Ejecutando las pruebas ✅
 
 En una terminal:
@@ -85,7 +86,7 @@ En una terminal:
 ```
 mvn test
 ```
-
+![](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/img/test.PNG)
 ## Construido con 🛠️
 
 * [Java 13.0.2](https://www.oracle.com/co/java/technologies/javase-jdk13-downloads.html)- Entorno de desarrollo.
@@ -100,4 +101,4 @@ mvn test
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](Licencia GNU General Public License) 
+Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/LICENSE.txt) 
