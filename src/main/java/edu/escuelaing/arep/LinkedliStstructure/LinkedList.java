@@ -14,7 +14,7 @@ public class LinkedList<E> implements Iterable<E>{
     private int size;
 
     /**
-     * Método constructor de la Linked List con una lista como parametro
+     * Metodo constructor de la Linked List con una lista como parametro
      * @param doubles lista de datos
      */
     public LinkedList(E[] doubles){
@@ -27,7 +27,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método constructor de la Linked List sin parametros
+     * Metodo constructor de la Linked List sin parametros
      */
     public LinkedList() {
         this.head=null;
@@ -36,7 +36,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método para agregar un nodo en la primera posición
+     * Metodo para agregar un nodo en la primera posición
      * @param data valor del nodo
      */
     public void insertFirst(E data){
@@ -48,7 +48,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método para agregar un nodo en la ulrima posición
+     * Metodo para agregar un nodo en la ulrima posición
      * @param data valor del ultimo nodo
      */
 
@@ -66,7 +66,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método para obtener el tamaño de la lista
+     * Metodo para obtener el tamaño de la lista
      * @return el tamaño de la lista de typo entero
      */
     public int getSize() {
@@ -74,7 +74,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método que valida si la lista esta vacia
+     * Metodo que valida si la lista esta vacia
      * @return valor de typo boolean
      */
     public boolean emptyList(){
@@ -82,7 +82,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método que remueve el valor del primer nodo (head), si la lista no esta vacia.
+     * Metodo que remueve el valor del primer nodo (head), si la lista no esta vacia.
      * @throws NoSuchFieldException genera un Excepción si la lista esta vacía
      */
     public void removeFirst() throws NoSuchFieldException {
@@ -97,7 +97,7 @@ public class LinkedList<E> implements Iterable<E>{
         }
     }
     /**
-     * Método que remueve el valor del ultimo  nodo (tail), si la lista no esta vacia.
+     * Metodo que remueve el valor del ultimo  nodo (tail), si la lista no esta vacia.
      * @throws NoSuchFieldException genera un Excepción si la lista esta vacía
      */
 
@@ -124,7 +124,7 @@ public class LinkedList<E> implements Iterable<E>{
 
 
     /**
-     * Método para obtener el primer nodo
+     * Metodo para obtener el primer nodo
       * @return el primer nodo que es head
      */
     public Node<E> getHead() {
@@ -132,7 +132,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método para establecer el valor del primer nod
+     * Metodo para establecer el valor del primer nod
      * @param head valor del primer nodo
      */
     public void setHead(Node<E> head) {
@@ -140,7 +140,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método obtener el valor del ultimo nodo
+     * Metodo obtener el valor del ultimo nodo
      * @return valor del ultimo nodo
      */
     public Node<E> getTail() {
@@ -148,7 +148,7 @@ public class LinkedList<E> implements Iterable<E>{
     }
 
     /**
-     * Método para establcer el valor del ultimo nodo
+     * Metodo para establcer el valor del ultimo nodo
      * @param tail valor del ultimo nodo
      */
     public void setTail(Node<E> tail) {

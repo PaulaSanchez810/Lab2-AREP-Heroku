@@ -8,12 +8,20 @@ import static spark.Spark.*;
 import static spark.Spark.port;
 
 public class SparkWebApp {
+    /**
+     * metodo principal utilizando metodos sparweb y asignado funciones lambda para crear la aplicacion
+     */
     public static void main(String[] args ) {
         port(getport());
         get("/calculadoraArep",(req,res)->inputDataPage(req,res));
         get("/resultado", (req,res)->resultsPage(req,res));
 
     }
+
+    /**
+     * metodo que lee el puerto predeterminado especificado por la variable PORT.
+     * @return puerto a utilizar
+     */
     private static int getport() {
         if (System.getenv("PORT") != null) {
             return Integer.parseInt(System.getenv("PORT"));

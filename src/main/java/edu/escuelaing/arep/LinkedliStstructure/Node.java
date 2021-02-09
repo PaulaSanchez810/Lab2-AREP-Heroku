@@ -10,7 +10,7 @@ public class Node<E>{
     private Node<E> next;
 
     /**
-     * Método constructor que toma el valor (data) del nodo como valor
+     * Metodo constructor que toma el valor (data) del nodo como valor
      * @param data es el valor del nodo
      */
     public Node(E data) {
@@ -19,7 +19,7 @@ public class Node<E>{
     }
 
     /***
-     * Método para obtener el valor del nodo
+     * Metodo para obtener el valor del nodo
      * @return el valor del nodo (data)
      */
     public E getData() {
@@ -27,7 +27,7 @@ public class Node<E>{
     }
 
     /***
-     * Método para obtener el valor del siguiente nodo
+     * Metodo para obtener el valor del siguiente nodo
      * @return el nodo siguiente
      */
 
@@ -36,7 +36,7 @@ public class Node<E>{
     }
 
     /***
-     * Métpdp para establecer el valor del nodo
+     * Metodp para establecer el valor del nodo
      * @param data valor del nuevo nodo
      */
       public void setData(E data) {
@@ -44,7 +44,7 @@ public class Node<E>{
     }
 
     /**
-     * Métpdp para establecer el valor del siguiente nodo
+     * Metodp para establecer el valor del siguiente nodo
      * @param next valor del siguiente nodo
      */
     public void setNext(Node<E> next) {
