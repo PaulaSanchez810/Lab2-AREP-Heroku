@@ -4,9 +4,17 @@ En esta práctica de laboratorio, tiene como objetivo realizar aplicativo web di
 
 ## Información del proyecto 🚀
 
-Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio en formato Latex haga [click acá](https://www.overleaf.com/project/601554022e066319be081aec)
+Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio:
+
+> En formato Latex haga [click acá](https://www.overleaf.com/project/601551db2e066306a40817fe)
+
+> En formato Pdf haga [click acá]
+
+Despliegue en Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://calculadora-app-arep.herokuapp.com/calculadoraArep)
+
+Integración Continua
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/PaulaSanchez810/Lab2-AREP-Heroku)
 
