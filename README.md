@@ -4,11 +4,9 @@ En esta práctica de laboratorio, tiene como objetivo realizar aplicativo web di
 
 ## Información del proyecto 📁
 
-Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio:
+Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio que se creo en latex y esta en formato pdf:
 
-> En formato Latex haga [click acá](https://www.overleaf.com/project/601551db2e066306a40817fe)
-
-> En formato Pdf haga [click acá]
+> Para abrir informe del laboratorio [click acá]
 
 ### Despliegue en Heroku
 
