@@ -1,5 +1,5 @@
 # Heroku SparkWeb
-## Calculadora desviación estándar y media
+
 En esta práctica de laboratorio, tiene como objetivo realizar aplicativo web diseñado en Java haciendo uso del framework Spark,para calcular la media y la  desviación estándar y media de un conjunto de n números reales, utilizando una Linked list para almacenar los n números para los cálculos.
 
 ## Información del proyecto 🚀
