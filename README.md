@@ -6,7 +6,7 @@ En esta práctica de laboratorio, tiene como objetivo realizar aplicativo web di
 
 Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio que se creo en latex y esta en formato pdf:
 
-> Para abrir informe del laboratorio [https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/Taller%20Heroku.pdf]
+> Para abrir informe del laboratorio [click acá](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/Taller%20Heroku.pdf)
 
 ### Despliegue en Heroku
 
