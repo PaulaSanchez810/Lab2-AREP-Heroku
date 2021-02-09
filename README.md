@@ -39,7 +39,7 @@ java -showversion
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora.git
+git clone https://github.com/PaulaSanchez810/Lab2-AREP-Heroku.git
 ```
 
 2. Compila el proyecto:
