@@ -10,11 +10,11 @@ Para ver detalle del darrollo de la práctica y concepto clave, puede consultar 
 
 > En formato Pdf haga [click acá]
 
-Despliegue en Heroku
+### Despliegue en Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://calculadora-app-arep.herokuapp.com/calculadoraArep)
 
-Integración Continua
+### Integración Continua
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/PaulaSanchez810/Lab2-AREP-Heroku)
 
