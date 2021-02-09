@@ -71,7 +71,7 @@ veremos la aplicacación ejecutando localmente:
  
 4. Documentación JavaDoc
  
-> Por consola:
+> > POR TERMINAL DE COMANDOS
 
 ```
 mvn javadoc:javadoc
@@ -81,7 +81,7 @@ mvn javadoc:javadoc
 [Apidocs](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/tree/master/site/apidocs)
 ## Ejecutando las pruebas ✅
 
-En una terminal:
+> POR TERMINAL DE COMANDOS
 
 ```
 mvn test
