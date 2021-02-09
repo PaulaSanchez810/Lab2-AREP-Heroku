@@ -65,9 +65,7 @@ De esta manera podemos ver que la aplicación esta corriendo de forma local
 ```
  http://localhost:4567/calculadoraArep
 ```
-> Aplicacación en Heroku:
-
-[!Despliegue en Heroku](https://calculadora-app-arep.herokuapp.com/calculadoraArep)
+> Despliegue en Heroku: [click acá](https://calculadora-app-arep.herokuapp.com/calculadoraArep)
  
 ![](https://github.com/PaulaSanchez810/Lab2-AREP-Heroku/blob/master/img/Calculadora2.png)
  
